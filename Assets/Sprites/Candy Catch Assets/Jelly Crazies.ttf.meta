@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6aedb2aad5c00d14e97996e06b6b0b3d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jelly Crazies
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ca88a5e2b6bb65a489bdbea608290ac5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
